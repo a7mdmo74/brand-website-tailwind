@@ -5,6 +5,7 @@
 
 - Responsive landing page Website Using React.js, CSS, TailwindCss.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
+- Developed first with the Mobile First methodology, then for desktop.
 
 [Website Demo](https://brand-website-tailwind-a7mdmo74.vercel.app/)
 
